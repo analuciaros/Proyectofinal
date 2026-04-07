@@ -1,0 +1,4 @@
+entrega_id,venta_id,fecha_entrega,estado_entrega,tiempo_entrega_dias,zona
+5001,1001,2024-01-05,entregado,4,Zona 1
+5002,1002,2024-01-04,entregado,2,Zona 10
+5003,1003,2024-01-06,tardio,6,Zona 5

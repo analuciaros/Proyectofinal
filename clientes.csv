@@ -1,0 +1,4 @@
+cliente_id,nombre,edad,ciudad,segmento,fecha_registro
+1,Ana,25,Guatemala,A,2023-01-01
+2,Luis,40,Mixco,B,2023-02-15
+3,Carlos,65,Villa Nueva,A,2023-03-10

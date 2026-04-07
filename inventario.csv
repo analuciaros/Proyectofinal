@@ -1,0 +1,4 @@
+producto_id,stock_actual,stock_minimo,bodega
+101,5,10,Central
+102,50,20,Central
+103,20,15,Norte

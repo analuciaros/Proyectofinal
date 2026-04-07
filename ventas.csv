@@ -1,0 +1,4 @@
+venta_id,fecha,cliente_id,producto_id,cantidad,canal,descuento
+1001,2024-01-01,1,101,1,online,0.1
+1002,2024-01-02,2,102,2,tienda,0.0
+1003,2024-01-03,3,103,1,online,0.05
